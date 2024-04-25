@@ -88,3 +88,34 @@ Análisis de Impacto: Impacto y análisis de las promociones en las ventas, eval
 Informe de Estado: Reporte actual del inventario, con alertas de reposición de stock y análisis de necesidades futuras.
 Cada una de estas vistas debe ser diseñada para ser intuitiva y eficiente, permitiendo a los administradores y vendedores gestionar sus operaciones, evaluar su desempeño, y mejorar continuamente la satisfacción del cliente.
             
+# Épica 1: Gestión de Operaciones de Vendedores
+Historias de Usuario:
+HU1.1 - Supervisar Inventarios de Vendedores: Como administrador de inventario, quiero supervisar y administrar los inventarios de los vendedores para asegurar disponibilidad de stock.
+# Tareas:
+Implementar la vista de lista para inventarios de vendedores.
+Desarrollar el formulario de detalles para actualizar y controlar las cantidades de productos en inventario.
+HU1.2 - Registrar y Seguir Órdenes de Vendedores: Como coordinador de logística, necesito gestionar desde la recepción hasta la entrega de las órdenes de vendedores, asegurando un proceso de envío eficiente.
+# Tareas:
+Crear vistas de lista y detalles para el seguimiento de órdenes y envíos de vendedores.
+# Épica 2: Manejo de Pagos y Evaluación de Desempeño
+## Historias de Usuario:
+HU2.1 - Calcular y Procesar Pagos y Comisiones: Como administrador financiero, quiero calcular y procesar pagos y comisiones para vendedores de manera justa y transparente.
+Tareas:
+Configurar la vista de cálculo y procesamiento de pagos y comisiones basados en reglas establecidas.
+HU2.2 - Evaluar Desempeño de Vendedores: Como gerente de ventas, quiero analizar el desempeño de los vendedores utilizando métricas clave para mejorar la satisfacción y rendimiento general.
+## Tareas:
+Implementar un dashboard de análisis para evaluar el desempeño, valoraciones y quejas de los vendedores.
+# Épica 3: Configuración y Personalización
+## Historias de Usuario:
+HU3.1 - Configurar Entorno de Venta para Vendedores: Como administrador de sistema, quiero establecer políticas y configuraciones específicas para las operaciones de venta de vendedores, incluyendo categorías de productos, políticas de envío y tasas de comisión.
+## Tareas:
+Desarrollar vistas de configuración para categorías de productos, políticas de envío, comisiones y tributación.
+HU3.2 - Personalizar Dashboard para Vendedores: Como administrador de sistema, quiero personalizar los dashboards para vendedores, mostrando métricas relevantes y gestiones necesarias.
+## Tareas:
+Crear una vista de personalización para adaptar el dashboard a las necesidades de los vendedores.
+# Épica 4: Reportes y Análisis
+## Historias de Usuario:
+HU4.1 - Generar Informes Detallados de Ventas y Comisiones: Como analista de datos, necesito generar informes que proporcionen un análisis detallado de ventas, comisiones y pagos para evaluar la efectividad de las estrategias implementadas.
+## Tareas:
+Desarrollar informes detallados sobre ventas por vendedor, gestión de inventarios, valoraciones y quejas, y análisis de comisiones y pagos.
+Cada una de estas historias está diseñada para que las interfaces sean intuitivas y eficientes, permitiendo a los administradores y vendedores gestionar sus operaciones de manera efectiva, evaluar su desempeño y mejorar continuamente la satisfacción del cliente.
